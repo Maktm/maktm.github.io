@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /resume.pdf
 ---
-<meta http-equiv="Refresh" content="0; url=https://maktm.github.io/resume.pdf" />
+
