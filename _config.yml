@@ -22,9 +22,9 @@ title: Michael Kiros
 email: michael.kiros@ttu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog (and resume) that consists of a collection of the
-  projects and technical posts I've made in the past. Sorry, most of the posts
-  are migrated from multiple sources so the quality is bad at the moment. I'll
-  start cleaning it up when I get the time.
+  projects and technical posts I've made in the past. Sorry, I'm migrating
+  the posts from different places I posted them on in the past so the
+  quality isn't the best right now.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
