@@ -7,4 +7,5 @@ To run the blog locally, simply clone the repo and run it using Jekyll with `jek
 The core dependencies used to run any Jekyll site.
 
 ## TODO
-Improve the README
+* Improve the README
+* Improve quality of posts after migrating them to the new blog
