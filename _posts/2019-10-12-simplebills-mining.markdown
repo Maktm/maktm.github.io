@@ -20,6 +20,10 @@ The HTML source contains a `<script>` tag with the following `src`.
 
 It doesn't matter whether you're sign in or not. Also, the JS script will eat up your CPU usage.
 
+Here's a screenshot of my poor CPU feeling the effects:
+
+![SimpleBills killing my CPU](../_images/simplebills-killing-cpu.png)
+
 ## What's in the JS script?
 The JS script just contains some obfuscated code (lol) and I'm not bothered to identify the script's name but just to let you know, Symantec identifies it as JSCoinMiner.
 
