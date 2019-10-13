@@ -28,3 +28,13 @@ Here's a screenshot of my poor CPU feeling the effects:
 The JS script just contains some obfuscated code (lol) and I'm not bothered to identify the script's name but just to let you know, Symantec identifies it as JSCoinMiner.
 
 Here's a [gist of the source code](https://gist.github.com/Maktm/9518eece4b6190a439d513396e622e0a).
+
+## Bonus
+
+The script connects to the following endpoint `wss://s11.hostcontent.live/3ce92Z`.
+
+After connecting, the requests it sends look like the following:
+
+![Requests form miner](https://i.imgur.com/E0jf2Mu.png)
+
+So, it might be CoinImp but I don't know enough about mining to say for sure.
